@@ -9,7 +9,6 @@ class ResPopular {
     required this.totalPages,
     required this.totalResults,
   });
-
   int page;
   List<Movie> results;
   int totalPages;
